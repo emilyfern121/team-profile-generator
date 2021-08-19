@@ -1,0 +1,14 @@
+{
+  "name": "profilegenerator",
+  "version": "1.0.0",
+  "description": "this node.js command line will generate an html webpage that displays information on each member of a software engineering team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
